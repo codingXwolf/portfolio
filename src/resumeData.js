@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer",
     "linkedinId": "Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, attend hackathons, and meet ups. Some of my hobbies are coding, mountain biking and hiking with my siberian husky Zero",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -18,8 +18,8 @@ let resumeData = {
         },
         {
             "name": "skype",
-            "url": "http://skype.com",
-            "className": "fa fa-skype"
+            "url": "http://instagram.com/jxme88",
+            "className": "fa fa-instagram"
         }
     ],
     "aboutme": "I am a badass web front end web developer here to fuck shit up",
